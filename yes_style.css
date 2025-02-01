@@ -22,3 +22,65 @@ body {
     max-width: 500px; 
     height: auto; 
 }
+
+#dary {
+    width: 300px;
+    height: auto;
+    position: absolute;
+    top: 380px ;
+    left: 260px;
+}
+
+#dary2 {
+    width: 300px;
+    height: auto;
+    position: absolute;
+    top: 450px ;
+    right: 180px;
+}
+
+#dary3 {
+    width: 150px;
+    height: auto;
+    position: absolute;
+    top: 80px ;
+    right: 150px;
+}
+
+#dary4 {
+    width: 150px;
+    height: auto;
+    position: absolute;
+    top: 50px ;
+    right: 250px;
+}
+
+#dary5 {
+    width: 150px;
+    height: auto;
+    position: absolute;
+    top: 70px ;
+    left: 100px;
+}
+
+#dary6 {
+    width: 150px;
+    height: auto;
+    position: absolute;
+    top: 80px ;
+    left: 250px;
+}
+
+#dary7 {
+    width: 150px;
+    height: auto;
+    position: absolute;
+    top: 50px ;
+    left: 300px;
+}
+
+.image_container img {
+    width: 100%; 
+    max-width: 500px; 
+    height: auto; 
+}
